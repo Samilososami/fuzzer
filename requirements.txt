@@ -1,0 +1,7 @@
+argparse
+requests
+queue
+threading
+time
+urllib.parse
+colorama
